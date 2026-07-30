@@ -4,6 +4,7 @@ int main() {
 
     char name_first;
     int age;
+    
 
     printf(Enter the first name character of your name: ");
     scanf("%c", &name_first);
